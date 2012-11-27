@@ -100,7 +100,7 @@ grails.plugins.springsecurity.authority.className = 'es.osoco.grails.plugins.otp
 grails.plugins.springsecurity.securityConfigType = 'Annotation'
 
 // Spring Security OTP plugin
-grails.plugins.springsecurity.userLookup.secretKeyPropertyName = 'secretKey'
+grails.plugins.springsecurity.otp.userLookup.secretKeyPropertyName = 'secretKey'
 
 // grails.plugins.springsecurity.otp.useTwoFactorsCombinedLoginForm = true
 // grails.plugins.springsecurity.otp.totp.preStepsValidWindow = 2
